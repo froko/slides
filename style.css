@@ -1,0 +1,7 @@
+.slidev-layout {
+  @apply pt-18;
+
+  h2 {
+    @apply mt-8;
+  }
+}
