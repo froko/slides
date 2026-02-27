@@ -5,7 +5,10 @@ layout: intro
 
 # Patrick Ineichen
 
-Software Engineer, Musician, Cat Lover
+- Professional Software Engineer
+- Hobby Audio Engineer
+- Passionate Musician
+- Caring Cat Lover
 
 https://frokonet.ch
 
